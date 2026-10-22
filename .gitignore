@@ -1,0 +1,11 @@
+
+ml/medical_demand_model.pkl
+ml/water_demand_model.pkl
+ml/food_demand_model.pkl
+
+backend/models/medical_demand_model.pkl
+backend/models/water_demand_model.pkl
+backend/models/food_demand_model.pkl
+ml/medical_demand_model.pkl
+ml/water_demand_model.pkl
+ml/food_demand_model.pkl
